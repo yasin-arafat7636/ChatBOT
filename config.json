@@ -143,6 +143,7 @@
   },
   "optionsFca": {
     "online": true,
+    "autoListen": false,
     "selfListen": true,
     "selfListenEvent": true,
     "listenEvents": true,
